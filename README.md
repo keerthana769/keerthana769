@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi I'm Keerthana 👋
 
+- 🌱 Currently learning: Frontend Development
+- 📫 Email: gurramkeerthanareddy@gmail.com
+-  
 <!--
 **keerthana769/keerthana769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
