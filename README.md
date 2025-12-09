@@ -51,10 +51,10 @@ Here are some projects I’m building or planning to upload soon:
 - 🍽️ **Recipe Finder App** – API-based food search interface  
 
 📍 *More projects coming! Stay tuned…*
--->
 
 ---
 
+-->
 ### 🏆 **Achievements & Activities**
 - Hosted the **10th-grade graduation ceremony** for 100+ students  
 - Participated in **Avishkar 2K19**, presenting on *Space & Technologies*  
@@ -67,21 +67,37 @@ Here are some projects I’m building or planning to upload soon:
 ### 🔗 **Connect With Me**
 
 <p align="left">
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/keerthana-gurram/" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<!-- Gmail -->
 <a href="mailto:gurramkeerthanareddy@gmail.com" target="_blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/keerthi_cutes/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<!-- Frontend Mentor -->
+<a href="https://www.frontendmentor.io/profile/keerthana769" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+</a>
+
 </p>
+
 
 ---
 
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-gurram&show_icons=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-gurram&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=keerthana-gurram&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=keerthana-gurram&layout=compact&theme=react" height="160"/>
 </p>
 
 ---
