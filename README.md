@@ -1,8 +1,42 @@
 <h1 align="center">Hi, I'm Keerthana Gurram</h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Learner</h3>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=keerthana-gurram&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+-->
+
+<p align="center">
+  <a href="https://github.com/keerthana-gurram?tab=followers">
+    <img src="https://img.shields.io/github/followers/keerthana-gurram?logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/keerthana-gurram?tab=repositories">
+    <img src="https://img.shields.io/github/stars/keerthana-gurram?logo=github&style=for-the-badge" alt="GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-JS-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/keerthana-gurram?tab=followers">
+    <img src="https://img.shields.io/github/followers/keerthana-gurram?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/keerthana-gurram?tab=repositories">
+    <img src="https://img.shields.io/github/stars/keerthana-gurram?logo=github&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -93,6 +127,7 @@ Here are some projects I’m building or planning to upload soon:
 
 ---
 
+<!--
 ### 📊 **GitHub Stats**
 
 <p align="center">
@@ -106,7 +141,7 @@ Here are some projects I’m building or planning to upload soon:
 > “Small habits turn into big results.” — *Atomic Habits*
 
 ---
-
+-->
 ⭐ **If you like my work, feel free to follow or star my repositories!**
 
 
