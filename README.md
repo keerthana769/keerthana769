@@ -10,7 +10,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-JS-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
@@ -23,19 +22,19 @@
 
 ---
 
-### 👩‍💻 **About Me**
+###  **About Me**
 
 I’m an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web interfaces.  
 Currently learning and working with **React.js**, strengthening my JavaScript fundamentals, and building real-world UI projects.
 
-- 🔭 I’m currently working on: **Portfolio Website & React Projects**
-- 🌱 I’m learning: **React.js, REST APIs, UI/UX Fundamentals**
-- 📫 Reach me at: **gurramkeerthanareddy@gmail.com**
-- ⚡ Fun fact: I love dancing, reading productivity books, and exploring new tech!
+-  I’m currently working on: **Portfolio Website & React Projects**
+-  I’m learning: **React.js, REST APIs, UI/UX Fundamentals**
+-  Reach me at: **gurramkeerthanareddy@gmail.com**
+-  Interests: I love reading productivity books, and exploring new tech!
 
 ---
 
-### 🛠️ **Tech Stack**
+###  **Tech Stack**
 
 #### **Frontend**
 - HTML5 • CSS3 • JavaScript (ES6+)
@@ -71,7 +70,7 @@ Here are some projects I’m building or planning to upload soon:
 ---
 
 -->
-### 🏆 **Achievements & Activities**
+###  **Achievements & Activities**
 - Hosted the **10th-grade graduation ceremony** for 100+ students  
 - Participated in **Avishkar 2K19**, presenting on *Space & Technologies*  
 - Built a **smart parking demo** during EPSILON Hackathon (2022)  
@@ -99,15 +98,17 @@ Here are some projects I’m building or planning to upload soon:
   <img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
-<!-- Frontend Mentor -->
-<a href="https://www.frontendmentor.io/profile/keerthana769" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js" height="40" />
-</a>
+
 
 </p>
 
 
 ---
+<!-- Frontend Mentor 
+<a href="https://www.frontendmentor.io/profile/keerthana769" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+</a>
+-->
 
 <!--
 ### 📊 **GitHub Stats**
