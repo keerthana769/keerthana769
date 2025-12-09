@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Responsive+Web+Experiences;Transforming+Designs+Into+Interactive+Web+Pages" />
 </p>
 
 
