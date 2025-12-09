@@ -3,7 +3,7 @@
 - 🌱 Currently learning: Frontend Development
 - 📫 Email: gurramkeerthanareddy@gmail.com
 
-
+<!--
 # Mark Santiago's Dev Card
 
 > *"Your behavior, not your idea will change the world."*  
@@ -85,7 +85,7 @@ Demonstrates deep expertise across front-end, back-end, mobile, and blockchain e
 | SQL | HackerRank |
 
 ---
-
+-->
 
 
 <!--
