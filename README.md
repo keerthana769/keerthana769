@@ -1,9 +1,115 @@
+<h1 align="center">Hi, I'm Keerthana Gurram</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | UI/UX Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthana-gurram&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 👩‍💻 **About Me**
+
+I’m an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web interfaces.  
+Currently learning and working with **React.js**, strengthening my JavaScript fundamentals, and building real-world UI projects.
+
+- 🔭 I’m currently working on: **Portfolio Website & React Projects**
+- 🌱 I’m learning: **React.js, REST APIs, UI/UX Fundamentals**
+- 📫 Reach me at: **gurramkeerthanareddy@gmail.com**
+- ⚡ Fun fact: I love dancing, reading productivity books, and exploring new tech!
+
+---
+
+### 🛠️ **Tech Stack**
+
+#### **Frontend**
+- HTML5 • CSS3 • JavaScript (ES6+)
+- React.js • React Hooks • DOM Manipulation
+- Responsive Design • Bootstrap • Flexbox • CSS Grid
+
+#### **Tools**
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+- Figma (Basic UI Design)
+
+#### **Other**
+- Basic API Integration  
+- Deployment on GitHub Pages & Vercel  
+
+---
+
+<!--
+
+### 🚀 **Projects**
+
+Here are some projects I’m building or planning to upload soon:
+
+- 🎨 **Portfolio Website** – Multi-section responsive design  
+- ☁️ **Weather App (React + API)** – Real-time weather data  
+- 📦 **Interactive Pricing Page** – UI component with dynamic JS updates  
+- 📝 **Todo App (React)** – Task management with localStorage  
+- 🍽️ **Recipe Finder App** – API-based food search interface  
+
+📍 *More projects coming! Stay tuned…*
+-->
+
+---
+
+### 🏆 **Achievements & Activities**
+- Hosted the **10th-grade graduation ceremony** for 100+ students  
+- Participated in **Avishkar 2K19**, presenting on *Space & Technologies*  
+- Built a **smart parking demo** during EPSILON Hackathon (2022)  
+- Volunteered with **Eco Club** & **IEEE Street Cause** for community welfare  
+- Lead dancer in multiple school cultural events  
+
+---
+
+### 🔗 **Connect With Me**
+
+<p align="left">
+<a href="https://www.linkedin.com/in/keerthana-gurram/" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:gurramkeerthanareddy@gmail.com" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthana-gurram&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthana-gurram&layout=compact&theme=react" height="160"/>
+</p>
+
+---
+
+### 💡 **Quote I Live By**
+> “Small habits turn into big results.” — *Atomic Habits*
+
+---
+
+⭐ **If you like my work, feel free to follow or star my repositories!**
+
+
+
+
+
+
+
+
+
+<!--
+
 ## Hi I'm Keerthana 👋
 
 - 🌱 Currently learning: Frontend Development
 - 📫 Email: gurramkeerthanareddy@gmail.com
 
-<!--
+--------------------------------------------------------------------
+
 # Mark Santiago's Dev Card
 
 > *"Your behavior, not your idea will change the world."*  
