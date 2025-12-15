@@ -79,7 +79,7 @@ Here are some projects I’m building or planning to upload soon:
 
 ---
 
-### 🔗 **Connect With Me**
+###  **Connect With Me**
 
 <p align="left">
 
