@@ -71,11 +71,11 @@ Here are some projects I’m building or planning to upload soon:
 
 -->
 ###  **Achievements & Activities**
-- Hosted the **10th-grade graduation ceremony** for 100+ students  
+- Emceed a **high school graduation ceremony** for over 100 students  
 - Participated in **Avishkar 2K19**, presenting on *Space & Technologies*  
 - Built a **smart parking demo** during EPSILON Hackathon (2022)  
 - Volunteered with **Eco Club** & **IEEE Street Cause** for community welfare  
-- Lead dancer in multiple school cultural events  
+<!--- Lead dancer in multiple school cultural events  -->
 
 ---
 
