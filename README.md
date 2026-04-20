@@ -25,10 +25,10 @@
 ###  **About Me**
 
 I’m an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web interfaces.  
-Currently learning and working with **React.js**, strengthening my JavaScript fundamentals, and building real-world UI projects.
+Currently learning and working on strengthening my JavaScript fundamentals, and building real-world UI projects.
 
--  I’m currently working on: **Portfolio Website & React Projects**
--  I’m learning: **React.js, REST APIs, UI/UX Fundamentals**
+-  I’m currently working on: **Portfolio Website**
+<!--  I’m learning: **React.js, REST APIs, UI/UX Fundamentals**-->
 -  Reach me at: **gurramkeerthanareddy@gmail.com**
 -  Interests: I love reading productivity books, and exploring new tech!
 
@@ -38,7 +38,8 @@ Currently learning and working with **React.js**, strengthening my JavaScript fu
 
 #### **Frontend**
 - HTML5 • CSS3 • JavaScript (ES6+)
-- React.js • React Hooks • DOM Manipulation
+<!--- React.js • React Hooks •-->
+- DOM Manipulation
 - Responsive Design • Bootstrap • Flexbox • CSS Grid
 
 #### **Tools**
@@ -48,7 +49,7 @@ Currently learning and working with **React.js**, strengthening my JavaScript fu
 - Figma (Basic UI Design)
 
 #### **Other**
-- Basic API Integration  
+<!--- Basic API Integration  -->
 - Deployment on GitHub Pages & Vercel  
 
 ---
@@ -72,7 +73,7 @@ Here are some projects I’m building or planning to upload soon:
 -->
 ###  **Achievements & Activities**
 - Emceed a **high school graduation ceremony** for over 100 students  
-- Participated in **Avishkar 2K19**, presenting on *Space & Technologies*  
+- Participated in **Avishkar 2K19**, presenting on *Role of Technology in Modern Life*  
 - Built a **smart parking demo** during EPSILON Hackathon (2022)  
 - Volunteered with **Eco Club** & **IEEE Street Cause** for community welfare  
 <!--- Lead dancer in multiple school cultural events  -->
@@ -125,7 +126,7 @@ Here are some projects I’m building or planning to upload soon:
 
 ---
 -->
-⭐ **If you like my work, feel free to follow or star my repositories!**
+⭐ **If you like my work, feel free to follow and star my repositories!**
 
 
 
