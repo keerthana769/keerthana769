@@ -27,8 +27,7 @@
 I’m an aspiring **Frontend Developer** passionate about building clean, responsive, and user-friendly web interfaces.  
 Currently learning and working on strengthening my JavaScript fundamentals, and building real-world UI projects.
 
--  I’m currently working on: **Portfolio Website**
-<!--  I’m learning: **React.js, REST APIs, UI/UX Fundamentals**-->
+-  I’m currently working on: **Portfolio Website**<!--  I’m learning: **React.js, REST APIs, UI/UX Fundamentals**-->
 -  Reach me at: **gurramkeerthanareddy@gmail.com**
 -  Interests: I love reading productivity books, and exploring new tech!
 
@@ -37,8 +36,7 @@ Currently learning and working on strengthening my JavaScript fundamentals, and 
 ###  **Tech Stack**
 
 #### **Frontend**
-- HTML5 • CSS3 • JavaScript (ES6+)
-<!--- React.js • React Hooks •-->
+- HTML5 • CSS3 • JavaScript (ES6+)<!--- React.js • React Hooks •-->
 - DOM Manipulation
 - Responsive Design • Bootstrap • Flexbox • CSS Grid
 
@@ -49,9 +47,8 @@ Currently learning and working on strengthening my JavaScript fundamentals, and 
 - Figma (Basic UI Design)
 
 #### **Other**
-<!--- Basic API Integration  -->
 - Deployment on GitHub Pages & Vercel  
-
+<!--- Basic API Integration  -->
 ---
 
 <!--
